@@ -1,10 +1,8 @@
 # Template
 
 ## TO DO LIST
-- -
+- [ ] unchecked
+- [X] checked
 
-## GOOD THINGS
-- -
-
-## BAD THINGS
+## RETROSPECTION
 - -
